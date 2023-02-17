@@ -1,0 +1,24 @@
+{
+  "name": "theo-aggressive-dark-theme",
+  "displayName": "Theo Aggressive Dark theme",
+  "description": "Dark theme for vs code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Theo Aggressive Dark THeme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Theo Aggressive Dark THeme-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "Theoraclenyt",
+"repository": {
+  "type": "git"
+"url": "http"}
